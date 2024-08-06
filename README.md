@@ -9,15 +9,10 @@ The project connects an ESP32 to a Wi-Fi network and communicates with Firebase 
 ## Hardware Requirements
 
 - ESP32
-- Wifi/ Mobile Hotspot
+- Modem Router/ Mobile Hotspot
 
 ## Software Requirements
 
 - Arduino IDE
 - [Firebase ESP Client Library for Arduino](https://github.com/mobizt/Firebase-ESP-Client)
 - Wi-Fi network
-
-## Circuit Diagram
-
-Connect the LDR to the ESP32 as shown below:
-
