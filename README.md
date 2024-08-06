@@ -9,9 +9,7 @@ The project connects an ESP32 to a Wi-Fi network and communicates with Firebase 
 ## Hardware Requirements
 
 - ESP32
-- LDR (Light Dependent Resistor)
-- Resistor (e.g., 10k ohm)
-- Breadboard and jumper wires
+- Wifi/ Mobile Hotspot
 
 ## Software Requirements
 
